@@ -11,6 +11,10 @@ colunas_objeto
 # %%
 homicidios.info(memory_usage='deep')
 # %%
+colunas_1 = homicidios.columns.tolist()
 
-
+colunas_1.sort()
+colunas_1
+# %%
+homicidios.rename(columns={"nome": "Estado" , "valor": "Valores"})
 # %%
