@@ -1,5 +1,10 @@
 # Desbravando Pandas
 
+> **Nota:** Este repositório contém o material de acompanhamento do curso
+> "Desbravando Pandas" ministrado pelo [Téo Me Why](https://github.com/TeoMeWhy)
+> em parceria com o Instituto Aaron Swartz (março/2024).
+> Os notebooks e exercícios foram resolvidos por mim durante o curso.
+
 Curso de Pandas criado em conjunto com o Instituo Aaron Swartz.
 
 Adicione na sua agenda, [clicando aqui](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW4wNjV0bXNocjIyMGNhNzI1YjNwbjVpb2VfMjAyNDAzMTFUMjIzMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL).
